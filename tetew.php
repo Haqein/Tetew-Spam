@@ -134,7 +134,7 @@ echo $YY."\n::#: #";
 
 echo $BB."\n::#:Author ::[Ibrahim Islam Haqe] #";
 
-echo $B."\n::#:Instagram ::[@infonetku:]#";
+echo $B."\n::#:Instagram ::[@haqein:]#";
 
 echo $R."\n::#:Facebook ::[Ibrahim Jco Art:] #";
 
